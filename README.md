@@ -1,4 +1,4 @@
-# homeautomation
+# Homeautomation
 
 This is a home automation project in which you can switch ON or switch OFF eight devices using SMS. You also 
 receive an SMS confirmation of the device state after each successful switching.
